@@ -53,7 +53,7 @@ int main()
 		count = 0;
 		if(primes[i])
 			for(int j=i;j<=limit;j+=i)
-				count+=nums[j];
+					count+=nums[j];
 		ans = max(ans, count);
 	}
 	
