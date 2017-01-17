@@ -16,8 +16,8 @@
 
 using namespace std;
 
-static int dx[] = {-1,-1,-1,0,0,1,1,1};
-static int dy[] = {-1,0,1,-1,1,-1,0,1};
+// static int dx[] = {-1,-1,-1,0,0,1,1,1};
+// static int dy[] = {-1,0,1,-1,1,-1,0,1};
 
 int main()
 {
